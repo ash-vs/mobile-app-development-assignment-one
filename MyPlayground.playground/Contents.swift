@@ -3,3 +3,5 @@
 import Cocoa
 
 var str = "Hello, playground"
+
+let myVariable = 5
